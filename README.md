@@ -1,0 +1,2 @@
+# cmcourse
+Configuration Management Course
